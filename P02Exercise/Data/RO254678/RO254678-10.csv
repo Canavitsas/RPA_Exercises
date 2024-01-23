@@ -1,0 +1,4 @@
+InvoiceNumber,Item,Amount,Tax,Total,Currency,Date
+498172,"IT Support",157877,31575.4,189452,USD,2017-10-21
+534747,"Concierge Services",88683,17736.6,106420,RON,2017-10-06
+297232,"Beverages and Catering",71013,14202.6,85215.6,EUR,2017-10-17
